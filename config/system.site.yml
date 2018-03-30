@@ -1,0 +1,14 @@
+uuid: 72d632b5-9cf5-4b52-9b87-c9c6f9915f17
+name: dneedham3-pantheon-training-org
+mail: david@enjoycreativity.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
